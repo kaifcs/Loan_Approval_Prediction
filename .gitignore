@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+loan_model.joblib
+*.ipynb_checkpoints/
